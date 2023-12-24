@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771404969574",
+    "project_id": "worldcheck-007",
+    "storage_bucket": "worldcheck-007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771404969574:android:aaadd9524b727e21e61fa7",
+        "android_client_info": {
+          "package_name": "com.example.worldcheck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKK5xemFVkO3s9SW5OFcELswuarQCbGdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
